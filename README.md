@@ -1,7 +1,3 @@
-# Dine-Ease
-Here’s a well-structured and detailed README file for your GitHub project **Dine-Ease**:  
-
----
 
 # Dine-Ease  
 
@@ -98,4 +94,4 @@ For questions or support, feel free to reach out to:
 
 ---
 
-Would you like to add more sections or details? 
+
